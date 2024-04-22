@@ -18,6 +18,7 @@ function Cliccato() {
 
         if (emailOra = inputUtente) {
             document.getElementById(`conferma`).innerHTML = `Sei in lista!`
+            console.log(`Sei in lista`)
         }
 
     }
